@@ -1,12 +1,11 @@
 # Tuple with current order of runners
-starting_order = ("Ravi", "Zara", "Imran", "Anaya", "Liam")
+starting_order = ("Raju", "Kavya", "Issac", "Arun", "Lizy")
 
-# Dictionary of runner heights
-heights = {
-    "Anaya": 150,
-    "Ravi": 165,
-    "Zara": 145,
-    "Imran": 170,
-    "Liam": 160
+# Dictionary of runner weights in Kgs
+weights = {
+    "Arun": 52,
+    "Raju": 60,
+    "Kavya": 55,
+    "Issac": 65,
+    "Lizy": 58
 }
-
